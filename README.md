@@ -5,7 +5,7 @@
 
 # Random User Generator App
 
-# Live at: https://random-user-generator-umut.netlify.app
+## Live at: https://random-user-generator-umut.netlify.app
 
 
 
